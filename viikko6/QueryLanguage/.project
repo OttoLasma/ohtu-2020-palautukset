@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>QueryLanguage_</name>
 	<comment>Project QueryLanguage_ created by Buildship.</comment>
+=======
+	<name>QueryLanguage</name>
+	<comment>Project QueryLanguage created by Buildship.</comment>
+>>>>>>> 0d44bb33e81459133c4e9a953a1b0e07efb632de
 	<projects>
 	</projects>
 	<buildSpec>
